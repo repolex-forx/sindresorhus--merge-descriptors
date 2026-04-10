@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "sindresorhus",
+  "repo": "merge-descriptors",
+  "versions": [
+    {
+      "commit": "b497f611ec85031e00c2f3cdbb327a550028a7bf",
+      "parsed_at": "2026-04-10T11:07:49.376536+00:00",
+      "tag": "v2.0.0",
+      "filetree": "filetree/b497f611ec85031e00c2f3cdbb327a550028a7bf.nq.gz",
+      "blobs": [
+        "blob/6313b56c57848efce05faa7aa7e901ccfc2886ea.nq.gz",
+        "blob/43c97e719a5a824700932f72e6e7e6748ce45d01.nq.gz",
+        "blob/c509d4557c0d11a3f7ea08d5e4ff0c77ff91f4cf.nq.gz",
+        "blob/df8f91f445b1ef0be11552801e36bf5eedea8910.nq.gz",
+        "blob/51228e5cecc2929c27b40f855a6f4eb4fb9baf7b.nq.gz",
+        "blob/346585cf904a9126a589404f48706564d3791659.nq.gz",
+        "blob/1c6314a31833395fd5ff016a6506bdd51860657c.nq.gz",
+        "blob/239ecff1372358a22aa99dcbb375fdad7abba817.nq.gz",
+        "blob/9bedb250ba6f5976c708674d9d6b539e7ff3050e.nq.gz",
+        "blob/2dca3062786160089d5cb829e37c971208011d3f.nq.gz",
+        "blob/1dee67d843668d895d55ed100debc2a1b36254e6.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
